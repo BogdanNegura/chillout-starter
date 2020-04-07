@@ -1,0 +1,11 @@
+.content {
+  padding: 0;
+  margin: 0;
+}
+
+.image {
+  background-image: url(image/cornel-and-marian-success.png);
+  background-size: cover;
+  padding-top: 3rem;
+  display: block;
+}
